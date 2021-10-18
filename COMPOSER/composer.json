@@ -1,0 +1,8 @@
+{
+ "require": {
+    "cocur/slugify":"3.2"
+ }   
+
+
+
+}
